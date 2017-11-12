@@ -1,0 +1,6 @@
+---
+- name: osx
+  hosts: local
+  connection: local
+  roles:
+      - { role: brew, tags: [ brew ] }

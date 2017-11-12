@@ -1,0 +1,40 @@
+repositories:
+  - { tap: caskroom/cask }
+
+cask_packages:
+  - { name: 1password }
+  - { name: adobe-creative-cloud }
+  - { name: alcatraz }
+  - { name: alfred }
+  - { name: docker }
+  - { name: firefox }
+  - { name: gyazo }
+  - { name: google-chrome }
+  - { name: google-japanese-ime }
+  - { name: java }
+  - { name: karabiner-elements }
+  - { name: slack }
+  - { name: skype }
+  - { name: vagrant }
+  - { name: virtualbox }
+  - { name: zeplin }
+
+packages:
+  - { name: ag }
+  - { name: chromedriver }
+  - { name: jpeg }
+  - { name: jpegoptim }
+  - { name: libpng }
+  - { name: lua }
+  - { name: openssl }
+  - { name: mongodb }
+  - { name: mysql }
+  - { name: nkf }
+  - { name: peco }
+  - { name: phantomjs }
+  - { name: pngquant }
+  - { name: tig }
+  - { name: tmux }
+  - { name: tree }
+  - { name: vim }
+  - { name: zsh }
